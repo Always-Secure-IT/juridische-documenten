@@ -485,9 +485,9 @@ d. Voor hardware die deel uitmaakt van een dienst, geldt de SLA voor zover het d
 
 Always Secure IT biedt de volgende bundelpakketten aan:
 
-Always Secure One (€24,95 p/m): Always Secure Workstation, Antivirus Start, Backup – Workstation, toegang tot Mijn Always Secure.
-Always Secure One – 365 (€39,95 p/m): Alles uit One + Microsoft 365 Business Basic, Always Secure Password, Backup – 365 en Always Support.
-Always Secure Team (€74,95 p/m): Always Support+, Microsoft 365 Business Premium, Always Secure Workstation, Always Secure Backup – Workstation, Always Secure Backup – 365, Always Secure Password, Always Secure Antivirus Groei + Mobile en een maatwerkdashboard (max. 10 tegels naar keuze, indien ondersteund).
+Always Secure One: Always Secure Workstation, Antivirus Start, Backup – Workstation, toegang tot Mijn Always Secure.
+Always Secure One: Alles uit One + Microsoft 365 Business Basic, Always Secure Password, Backup – 365 en Always Support.
+Always Secure Team: Always Support+, Microsoft 365 Business Premium, Always Secure Workstation, Always Secure Backup – Workstation, Always Secure Backup – 365, Always Secure Password, Always Secure Antivirus Groei + Mobile en een maatwerkdashboard (max. 10 tegels naar keuze, indien ondersteund).
 De actuele inhoud en specificaties van deze pakketten zijn te vinden via de webshop of het klantenportaal. Always Secure IT behoudt zich het recht voor de inhoud van pakketten aan te passen voor technische verbeteringen of marktontwikkelingen. Bij substantiële wijzigingen die de kernfunctionaliteit beperken, wordt de Klant minimaal dertig (30) dagen vooraf schriftelijk geïnformeerd.
 
 16.3 Los bestelbare standaarddiensten
